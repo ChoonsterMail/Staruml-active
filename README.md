@@ -17,9 +17,14 @@ Support version: v6.3.1
 
 [2025-01-30]:
 Update app.asar to v6.3.1
+
 Block auto update new version
+
 [2024-12-11]: Supports Linux from comment
+
 [2024-11-19]: Supports MacOS from comment
+
 [2024-11-12]:
 Block auto update (Beta)
+
 Update app.asar file for V6.3.0
