@@ -8,11 +8,11 @@ Step 2: Download app.asar file from https://drive.google.com/file/d/1_sKvHVL6Seb
 
 Step 3: Copy app.asar file download in step 2 (Override app.asar file)
 
-Window: C:\Program Files\StarUML\resources
+        Window: C:\Program Files\StarUML\resources
 
-MacOS: /Applications/StarUML.app/Contents/Resources/
+        MacOS: /Applications/StarUML.app/Contents/Resources/
 
-Linux: /opt/StartUML/resources
+        Linux: /opt/StartUML/resources
 
 Step 4: Open StarUML app to use
 
