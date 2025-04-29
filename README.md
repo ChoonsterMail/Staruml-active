@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/2c01c49d-e579-445a-b300-85818ca16134)# Staruml-active
 
 Active StarUML on Window/MacOS/Linux
+
 Step 1: Download and install StarUML Version 6 from main website https://staruml.io
 
 Step 2: Download app.asar file from https://drive.google.com/file/d/1_sKvHVL6SebnYF73iZxSWD9l48Pddzvj/view?usp=sharing
