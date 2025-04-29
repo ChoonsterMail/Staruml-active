@@ -28,3 +28,5 @@ Block auto update new version
 Block auto update (Beta)
 
 Update app.asar file for V6.3.0
+
+Hanoi University of Mining and Geology
